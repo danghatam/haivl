@@ -2,8 +2,8 @@
 $config = array();
 
 // Bắt đầu cấu hình
-$config['basedir']     =  '/home/username/public_html'; //Đường đẫn đến thư mục chứa mã nguồn
-$config['baseurl']     =  'http://yourdomain.com'; //Liên kết đến thư mục chứa mã nguồn
+$config['basedir']     =  'var/www/html/haivl'; //Đường đẫn đến thư mục chứa mã nguồn
+$config['baseurl']     =  'http://128.199.156.100/haivl'; //Liên kết đến thư mục chứa mã nguồn
 
 $DBTYPE = 'mysql';
 $DBHOST = ''; //Tên máy chủ cơ sở dữ liệu
